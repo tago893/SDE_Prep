@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tago893/SDE_Prep/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
@@ -27,4 +28,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/tago893/SDE_Prep/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
