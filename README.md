@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tago893/SDE_Prep/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/tago893/SDE_Prep/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/tago893/SDE_Prep/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
