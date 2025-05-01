@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/tago893/SDE_Prep/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
@@ -95,4 +96,8 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tago893/SDE_Prep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
