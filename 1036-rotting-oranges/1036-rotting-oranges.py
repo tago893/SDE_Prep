@@ -8,6 +8,7 @@ class Solution:
         made,sec =0,0
         while q:
             r,c,sec = q.popleft()
+            vis[r][c]=2
             for i in range(4):
                 new_r = r + drow[i]
                 new_c = c + dcol[i]
@@ -15,7 +16,6 @@ class Solution:
                     q.append((new_r,new_c,sec+1))
                     made+=1
                     vis[new_r][new_c]=2
-        print(made,cnt)
         return sec if made==cnt else -1
     
     def orangesRotting(self, grid: List[List[int]]) -> int:
@@ -28,10 +28,9 @@ class Solution:
             for j in range(y):
                 if grid[i][j] == 2:
                     q.append((i,j,0))
-                    vis[i][j]=2
                 if grid[i][j]==1:
                     cntFresh+=1
-        
+        print(vis)
         return self.bfs(grid,vis,q,cntFresh)
         
 
