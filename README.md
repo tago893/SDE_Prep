@@ -82,10 +82,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tago893/SDE_Prep/tree/master/0014-longest-common-prefix) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
