@@ -81,11 +81,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
@@ -105,9 +107,11 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
