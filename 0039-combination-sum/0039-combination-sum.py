@@ -1,0 +1,17 @@
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        result = []
+        combination = []
+        def backtrack(start,candidates,combination,target,total):
+            if total == target:
+                result.append(list(combination))
+            elif total>target:
+                return
+            for i in range(start,len(candidates)):
+                combination.append(candidates[i])
+                backtrack(i,candidates,combination,target,total+candidates[i])
+                combination.pop()
+        
+        
+        backtrack(0,candidates,combination,target,0)
+        return result
