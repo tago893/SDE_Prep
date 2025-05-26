@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tago893/SDE_Prep/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
 ## Enumeration
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
