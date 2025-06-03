@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/tago893/SDE_Prep/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/tago893/SDE_Prep/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tago893/SDE_Prep/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
@@ -89,6 +90,7 @@
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/tago893/SDE_Prep/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tago893/SDE_Prep/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 ## Sorting
