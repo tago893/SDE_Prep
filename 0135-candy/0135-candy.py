@@ -1,35 +1,24 @@
 class Solution:
     def candy(self, ratings: List[int]) -> int:
         n = len(ratings)
-        total = n
-        i = 1
-        # Traverse from left to right
-        while i < n:
+        if n == 0:
+            return 0
 
-            # if rating of ith children is
-            # equal to the previous children
-            if ratings[i] == ratings[i - 1]:
-                i += 1
-                continue
+        # First pass: Left to Right
+        left = [1] * n
+        for i in range(1, n):
+            if ratings[i] > ratings[i - 1]:
+                left[i] = left[i - 1] + 1
 
-            # to find the increasing sequence
-            peak = 0
-            while i < n and ratings[i] > ratings[i - 1]:
-                peak += 1
-                total += peak
-                i += 1
+        # Second pass: Right to Left
+        right = [1] * n
+        for i in range(n - 2, -1, -1):
+            if ratings[i] > ratings[i + 1]:
+                right[i] = right[i + 1] + 1
 
-            if i == n:
-                return total
-
-            # to find the decreasing sequence
-            valley = 0
-            while i < n and ratings[i] < ratings[i - 1]:
-                valley += 1
-                total += valley
-                i += 1
-
-            # remove the extra candy added twice
-            total -= min(peak, valley)
+        # Final: max of left and right at each index
+        total = 0
+        for i in range(n):
+            total += max(left[i], right[i])
 
         return total
