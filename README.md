@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/tago893/SDE_Prep/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/tago893/SDE_Prep/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/tago893/SDE_Prep/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/tago893/SDE_Prep/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/tago893/SDE_Prep/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
