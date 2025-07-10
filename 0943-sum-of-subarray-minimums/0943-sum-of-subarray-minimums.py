@@ -8,7 +8,7 @@ class Solution:
                 if len(stack) == 0:
                     smallest_left_list[i] = -1
                 else:
-                    while stack and arr[stack[-1]]>arr[i]:
+                    while stack and arr[stack[-1]]>=arr[i]:
                         stack.pop()
                     if len(stack)==0:
                         smallest_left_list[i] = -1
@@ -26,7 +26,7 @@ class Solution:
                 if len(stack) == 0:
                     smallest_right_list[i] = n
                 else:
-                    while stack and arr[stack[-1]]>=arr[i]:
+                    while stack and arr[stack[-1]]>arr[i]:
                         stack.pop()
                     if len(stack) == 0:
                         smallest_right_list[i] = n
