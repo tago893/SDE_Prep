@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tago893/SDE_Prep/tree/master/0002-add-two-numbers) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tago893/SDE_Prep/tree/master/0031-next-permutation) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
