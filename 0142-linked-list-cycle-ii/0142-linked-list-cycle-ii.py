@@ -11,17 +11,17 @@ class Solution:
         slow = head
         fast = head
         second = None
-        first = head
+        temp = head
         index = 0
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
             if slow == fast:
-                second = slow
-                break
-        while second:
-            if first == second:
-                return second
-            first = first.next
-            second = second.next
-        return second
+                slow = head
+                while slow!=fast:
+                    slow = slow.next
+                    fast = fast.next
+                
+                return slow
+        
+        return None
