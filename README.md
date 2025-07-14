@@ -52,6 +52,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/tago893/SDE_Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tago893/SDE_Prep/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/tago893/SDE_Prep/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 ## Sliding Window
@@ -110,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
