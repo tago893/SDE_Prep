@@ -33,6 +33,7 @@
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tago893/SDE_Prep/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -69,6 +70,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
