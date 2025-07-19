@@ -36,6 +36,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tago893/SDE_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tago893/SDE_Prep/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
@@ -136,11 +138,13 @@
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +205,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/tago893/SDE_Prep/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
@@ -212,6 +217,7 @@
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Memoization
 |  |
 | ------- |
