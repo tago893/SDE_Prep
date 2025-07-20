@@ -1,24 +1,27 @@
+from typing import List
+from collections import Counter
+
 class Solution:
     def findSubstring(self, s: str, words: List[str]) -> List[int]:
-        result = set()
-        total_len = len(words) * len(words[0])
+        if not s or not words:
+            return []
 
-        def permute(words_list, l, r, all_perms):
-            if l == r:
-                all_perms.append(''.join(words_list))
+        word_len = len(words[0])
+        total_len = word_len * len(words)
+        word_count = Counter(words)
+        result = []
+
+        for i in range(len(s) - total_len + 1):
+            seen = {}
+            for j in range(0, total_len, word_len):
+                word = s[i + j:i + j + word_len]
+                if word in word_count:
+                    seen[word] = seen.get(word, 0) + 1
+                    if seen[word] > word_count[word]:
+                        break  # too many occurrences
+                else:
+                    break  # word not in list
             else:
-                for i in range(l, r + 1):
-                    words_list[l], words_list[i] = words_list[i], words_list[l]
-                    permute(words_list, l + 1, r, all_perms)
-                    words_list[l], words_list[i] = words_list[i], words_list[l]  # backtrack
+                result.append(i)
 
-        all_perms = []
-        permute(words, 0, len(words) - 1, all_perms)
-
-        for word in all_perms:
-            for i in range(len(s) - total_len +1):
-                if s[i:i+total_len] == word:
-                    result.add(i)
-        
-        return list(result)
-        
+        return result
