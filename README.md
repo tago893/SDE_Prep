@@ -69,6 +69,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tago893/SDE_Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
@@ -95,6 +96,7 @@
 | [0014-longest-common-prefix](https://github.com/tago893/SDE_Prep/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tago893/SDE_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/tago893/SDE_Prep/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
