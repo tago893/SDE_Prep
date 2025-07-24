@@ -102,6 +102,7 @@
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tago893/SDE_Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tago893/SDE_Prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -206,6 +207,7 @@
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,4 +261,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
