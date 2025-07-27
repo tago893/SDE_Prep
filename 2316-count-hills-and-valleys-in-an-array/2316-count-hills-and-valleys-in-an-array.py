@@ -10,7 +10,6 @@ class Solution:
             left = i-1
             while right<n and nums[right] == nums[i]:
                 right+=1
-            print(right)
             if right<n:
                 if nums[i] > nums[right] and nums[i] > nums[left]:
                     hills+=1
