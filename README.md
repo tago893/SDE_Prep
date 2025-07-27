@@ -43,6 +43,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tago893/SDE_Prep/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tago893/SDE_Prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tago893/SDE_Prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tago893/SDE_Prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tago893/SDE_Prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
