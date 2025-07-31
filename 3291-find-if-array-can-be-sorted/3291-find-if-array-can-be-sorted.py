@@ -28,11 +28,6 @@ class Solution:
                 current_bit_count = bit_count
         
         segments.append(current_segment)  # Don't forget the last segment
-        
-        # Sort each segment
-        for segment in segments:
-            segment.sort()
-        
         # Check if segments can form a sorted array
         for i in range(1, len(segments)):
             if min(segments[i]) < max(segments[i-1]):
