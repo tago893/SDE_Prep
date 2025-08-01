@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/tago893/SDE_Prep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/tago893/SDE_Prep/tree/master/0135-candy) |
@@ -149,6 +150,7 @@
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/tago893/SDE_Prep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/tago893/SDE_Prep/tree/master/0152-maximum-product-subarray) |
