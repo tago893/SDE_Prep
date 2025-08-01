@@ -4,16 +4,15 @@ class Solution:
             return len(s) == len(set(s))
 
         def backtrack(index, path):
-            nonlocal max_len
             if isUnique(path):
-                max_len = max(max_len, len(path))
+                max_len[0] = max(max_len[0], len(path))
             else:
                 return
 
             for i in range(index, len(arr)):
                 backtrack(i + 1, path + arr[i])
 
-        max_len = 0
+        max_len = [0]
         if len(arr) == 1:
             if isUnique(arr[0]):
                 return len(arr[0])
@@ -21,4 +20,4 @@ class Solution:
                 return 0
                 
         backtrack(0, "")
-        return max_len
+        return max_len[0]
