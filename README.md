@@ -18,6 +18,7 @@
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tago893/SDE_Prep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
@@ -146,6 +147,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tago893/SDE_Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tago893/SDE_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tago893/SDE_Prep/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -174,6 +176,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
