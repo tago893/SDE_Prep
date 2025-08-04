@@ -8,12 +8,11 @@ class Solution:
 
         while j<n:
             count[fruits[j]]+=1
-            if len(count)>=3:
-                while len(count)>=3:
-                    count[fruits[i]]-=1
-                    if count[fruits[i]] == 0:
-                        del count[fruits[i]]
-                    i+=1
+            while len(count)>=3:
+                count[fruits[i]]-=1
+                if count[fruits[i]] == 0:
+                    del count[fruits[i]]
+                i+=1
             
             max_number = max(max_number,j-i+1)
             j+=1
