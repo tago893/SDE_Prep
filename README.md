@@ -70,6 +70,7 @@
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 ## Enumeration
 |  |
@@ -89,6 +90,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tago893/SDE_Prep/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tago893/SDE_Prep/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 ## String
 |  |
