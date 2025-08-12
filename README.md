@@ -36,6 +36,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tago893/SDE_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
@@ -198,6 +199,7 @@
 | [0152-maximum-product-subarray](https://github.com/tago893/SDE_Prep/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/tago893/SDE_Prep/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/tago893/SDE_Prep/tree/master/2022-maximum-alternating-subsequence-sum) |
