@@ -55,6 +55,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tago893/SDE_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/tago893/SDE_Prep/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
@@ -176,6 +177,7 @@
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -347,6 +349,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/tago893/SDE_Prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
