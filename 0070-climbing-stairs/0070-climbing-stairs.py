@@ -2,7 +2,9 @@ class Solution:
     def climbStairs(self, n: int) -> int:
         memo = [-1]*(46)
         def solve(i):
-            if i>=n:
+            if i>n:
+                return 0
+            if i==n:
                 return 1
             if memo[i]!=-1:
                 return memo[i]
@@ -10,4 +12,4 @@ class Solution:
             two = solve(i+2)
             memo[i] = one+two
             return memo[i]
-        return solve(1)
+        return solve(0)
