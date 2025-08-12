@@ -1,17 +1,13 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        memo = [-1]*(n)
-        if n==0 or n==1:
-            return 1
-        if n==2:
-            return 2
-        def dfs(i):
+        memo = [-1]*(46)
+        def solve(i):
             if i>=n:
                 return 1
-            
             if memo[i]!=-1:
                 return memo[i]
-            memo[i]=dfs(i+1)+dfs(i+2)
+            one = solve(i+1)
+            two = solve(i+2)
+            memo[i] = one+two
             return memo[i]
-        result = dfs(1)
-        return result
+        return solve(1)
