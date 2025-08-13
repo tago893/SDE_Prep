@@ -78,6 +78,7 @@
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/tago893/SDE_Prep/tree/master/0326-power-of-three) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -134,6 +135,7 @@
 | [0002-add-two-numbers](https://github.com/tago893/SDE_Prep/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/tago893/SDE_Prep/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
