@@ -156,6 +156,7 @@
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tago893/SDE_Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/tago893/SDE_Prep/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tago893/SDE_Prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
