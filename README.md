@@ -82,6 +82,7 @@
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/tago893/SDE_Prep/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
@@ -105,6 +106,7 @@
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tago893/SDE_Prep/tree/master/3291-find-if-array-can-be-sorted) |
@@ -141,6 +143,7 @@
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/tago893/SDE_Prep/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
