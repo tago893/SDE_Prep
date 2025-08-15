@@ -11,5 +11,4 @@ class Solution:
 
             elif time_taken == max_time:
                 max_index = min(events[i][0],max_index)
-            print([time_taken,max_time])
         return max_index
