@@ -39,6 +39,7 @@
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
+| [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -300,6 +301,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
@@ -374,6 +376,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
