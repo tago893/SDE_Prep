@@ -87,6 +87,7 @@
 | [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -323,6 +324,7 @@
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
+| [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
