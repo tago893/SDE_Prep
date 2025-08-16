@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/tago893/SDE_Prep/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tago893/SDE_Prep/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tago893/SDE_Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/tago893/SDE_Prep/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/tago893/SDE_Prep/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/tago893/SDE_Prep/tree/master/0179-largest-number) |
@@ -81,6 +82,7 @@
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tago893/SDE_Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/tago893/SDE_Prep/tree/master/0326-power-of-three) |
@@ -302,6 +304,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tago893/SDE_Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
