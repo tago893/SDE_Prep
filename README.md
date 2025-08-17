@@ -309,6 +309,7 @@
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
@@ -402,4 +404,12 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
