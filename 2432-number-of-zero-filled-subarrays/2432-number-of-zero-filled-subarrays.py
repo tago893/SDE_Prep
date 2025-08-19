@@ -1,5 +1,6 @@
 class Solution:
     def zeroFilledSubarray(self, nums: List[int]) -> int:
+        nums.append(1)
         count_zero = 0
         ans = 0
         n = len(nums)
@@ -7,7 +8,6 @@ class Solution:
             if nums[i] == 0:
                 count_zero+=1 
             else:
-                ans += count_zero*(count_zero+1)//2
                 count_zero=0
-        ans+=count_zero*(count_zero+1)//2
+            ans+=count_zero
         return(ans)
