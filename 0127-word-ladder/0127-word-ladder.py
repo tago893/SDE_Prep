@@ -20,7 +20,6 @@ class Solution:
 
         wordList.append(beginWord)
         adj = build_adjacency_list(wordList)
-        print(adj)
         visited = set([beginWord])
         queue = deque([(beginWord, 1)])
 
