@@ -68,6 +68,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tago893/SDE_Prep/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tago893/SDE_Prep/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -97,6 +98,7 @@
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/tago893/SDE_Prep/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Enumeration
 |  |
 | ------- |
