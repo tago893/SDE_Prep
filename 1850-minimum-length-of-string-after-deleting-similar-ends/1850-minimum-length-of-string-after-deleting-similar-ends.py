@@ -6,7 +6,7 @@ class Solution:
         k = n
         while l<r and s[l]==s[r]:
             ch = s[l]
-            while l<=r and s[l] == ch:
+            while l<r and s[l] == ch:
                 l+=1
             while r>=l and s[r] == ch:
                 r-=1
