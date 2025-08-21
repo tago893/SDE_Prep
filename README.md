@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tago893/SDE_Prep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tago893/SDE_Prep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -232,6 +233,7 @@
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/tago893/SDE_Prep/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tago893/SDE_Prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -304,6 +306,7 @@
 | [0054-spiral-matrix](https://github.com/tago893/SDE_Prep/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/tago893/SDE_Prep/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
@@ -331,6 +334,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tago893/SDE_Prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
@@ -345,6 +349,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
