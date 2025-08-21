@@ -63,6 +63,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tago893/SDE_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -248,6 +249,7 @@
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/tago893/SDE_Prep/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/tago893/SDE_Prep/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
@@ -313,6 +315,7 @@
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tago893/SDE_Prep/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Trie
 |  |
@@ -345,6 +348,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/tago893/SDE_Prep/tree/master/1666-make-the-string-great) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
@@ -356,6 +360,7 @@
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Greedy
 |  |
