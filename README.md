@@ -80,6 +80,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/tago893/SDE_Prep/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tago893/SDE_Prep/tree/master/3291-find-if-array-can-be-sorted) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/tago893/SDE_Prep/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tago893/SDE_Prep/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3632-button-with-longest-push-time](https://github.com/tago893/SDE_Prep/tree/master/3632-button-with-longest-push-time) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tago893/SDE_Prep/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -316,6 +317,7 @@
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tago893/SDE_Prep/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tago893/SDE_Prep/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Trie
 |  |
