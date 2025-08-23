@@ -46,6 +46,7 @@
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
@@ -145,6 +146,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
@@ -267,6 +269,7 @@
 | [0179-largest-number](https://github.com/tago893/SDE_Prep/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -378,6 +381,7 @@
 | [0135-candy](https://github.com/tago893/SDE_Prep/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/tago893/SDE_Prep/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
@@ -424,6 +428,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -457,6 +462,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/tago893/SDE_Prep/tree/master/1127-last-stone-weight) |
