@@ -66,6 +66,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -208,6 +209,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2211-k-radius-subarray-averages](https://github.com/tago893/SDE_Prep/tree/master/2211-k-radius-subarray-averages) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -256,6 +258,7 @@
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/tago893/SDE_Prep/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
