@@ -182,6 +182,7 @@
 | [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tago893/SDE_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tago893/SDE_Prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
@@ -353,6 +355,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tago893/SDE_Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tago893/SDE_Prep/tree/master/0150-evaluate-reverse-polish-notation) |
