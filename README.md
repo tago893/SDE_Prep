@@ -43,6 +43,7 @@
 | [0221-maximal-square](https://github.com/tago893/SDE_Prep/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0540-single-element-in-a-sorted-array) |
@@ -148,6 +149,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
@@ -238,6 +240,7 @@
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +279,7 @@
 | [0179-largest-number](https://github.com/tago893/SDE_Prep/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
@@ -439,6 +443,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
@@ -474,6 +479,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -500,4 +506,9 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
