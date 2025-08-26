@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tago893/SDE_Prep/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/tago893/SDE_Prep/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/tago893/SDE_Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tago893/SDE_Prep/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/tago893/SDE_Prep/tree/master/0048-rotate-image) |
@@ -145,6 +146,7 @@
 | [0001-two-sum](https://github.com/tago893/SDE_Prep/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/tago893/SDE_Prep/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/tago893/SDE_Prep/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
@@ -325,6 +327,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tago893/SDE_Prep/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/tago893/SDE_Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tago893/SDE_Prep/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
