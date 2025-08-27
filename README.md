@@ -43,6 +43,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/tago893/SDE_Prep/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
@@ -231,6 +232,7 @@
 | [0088-merge-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0283-move-zeroes) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/tago893/SDE_Prep/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
