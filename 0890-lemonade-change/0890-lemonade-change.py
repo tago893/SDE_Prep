@@ -12,16 +12,13 @@ class Solution:
                 if amount_in_5 < 0:
                     return False
             elif bill == 20:
-                if amount_in_10>0:
+                if amount_in_10>0 and amount_in_5>0:
                     amount_in_10-=1
                     amount_in_5-=1
-                    if amount_in_5 < 0:
-                        return False
-                else:
-                    if amount_in_5*5 >=15:
+                elif amount_in_5*5 >=15:
                         amount_in_5-=3
-                    else:
-                        return False
+                else:
+                    return False
 
                 
 
