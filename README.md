@@ -62,6 +62,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tago893/SDE_Prep/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
@@ -420,6 +421,7 @@
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
+| [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
