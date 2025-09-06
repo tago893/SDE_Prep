@@ -3,7 +3,7 @@ class Solution:
         t = 1
         while True:
             val = num1 - t*num2
-            if val<0:
+            if val<=0:
                 return -1
             min_bits = val.bit_count()
             if min_bits<= t <= val:
