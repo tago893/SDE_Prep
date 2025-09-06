@@ -5,7 +5,6 @@ class Solution:
         stack = []
 
         for c in path:
-            print(stack)
             if stack and c=="..":
                 stack.pop()
             elif c!="." and c!=".." and c!="":
