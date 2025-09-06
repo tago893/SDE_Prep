@@ -80,6 +80,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tago893/SDE_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/tago893/SDE_Prep/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2058-concatenation-of-array](https://github.com/tago893/SDE_Prep/tree/master/2058-concatenation-of-array) |
@@ -118,12 +119,14 @@
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tago893/SDE_Prep/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Enumeration
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
 | [3291-find-if-array-can-be-sorted](https://github.com/tago893/SDE_Prep/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
@@ -457,6 +462,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
