@@ -203,6 +203,7 @@
 | [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tago893/SDE_Prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/tago893/SDE_Prep/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/tago893/SDE_Prep/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/tago893/SDE_Prep/tree/master/0179-largest-number) |
@@ -384,6 +385,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tago893/SDE_Prep/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tago893/SDE_Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tago893/SDE_Prep/tree/master/0150-evaluate-reverse-polish-notation) |
