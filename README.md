@@ -69,6 +69,7 @@
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1127-last-stone-weight](https://github.com/tago893/SDE_Prep/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/tago893/SDE_Prep/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -308,6 +309,7 @@
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
+| [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
@@ -318,6 +320,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tago893/SDE_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
+| [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
@@ -492,6 +495,7 @@
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
+| [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/tago893/SDE_Prep/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -514,6 +518,7 @@
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/tago893/SDE_Prep/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
 ## Design
 |  |
