@@ -5,14 +5,15 @@ class Solution:
     def firstBadVersion(self, n: int) -> int:
         left = 1
         right = n
-
-        while left<right:
+        ans = 0
+        while left<=right:
             mid = left + (right-left)//2
             if isBadVersion(mid) == False:
                 left = mid+1
             else:
-                right = mid
+                right = mid-1
+                ans = mid
                 
                 
 
-        return(left)            
+        return(ans)            
