@@ -1,22 +1,18 @@
-from typing import List
-
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        word_set = set(wordDict)
+        n = len(s)
+        word_set  = set(wordDict)
         memo = {}
-
-        def backtrack(start):
-            if start == len(s):
+        def backtrack(i):
+            if i==n:
                 return True
-            if start in memo:
-                return memo[start]
-            
-            for end in range(start + 1, len(s) + 1):
-                if s[start:end] in word_set and backtrack(end):
-                    memo[start] = True
+            if i in memo:
+                return memo[i]
+            for end in range(i+1,n+1):
+                if s[i:end] in word_set and backtrack(end):
+                    memo[i] = True
                     return True
-
-            memo[start] = False
+            memo[i] = False
             return False
-
         return backtrack(0)
+            
