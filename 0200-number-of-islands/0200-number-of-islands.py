@@ -1,22 +1,31 @@
+from collections import deque
+
 class Solution:
-    def helper(self,matrix,i,j):
-        if i<0 or j<0 or i>=len(matrix) or j>=len(matrix[0]) or matrix[i][j] == '0' or matrix[i][j]=='X':
-            return 
-        matrix[i][j] = 'X'
-        self.helper(matrix, i-1,j)
-        self.helper(matrix,i+1,j)
-        self.helper(matrix,i,j-1)
-        self.helper(matrix,i,j+1)
-
     def numIslands(self, grid: List[List[str]]) -> int:
-        c = 0
-        row = len(grid)
-        column = len(grid[0]) 
-        print(row,column)   
-        for i in range(row):
-            for j in range(column):
-                if grid[i][j] == '1':
-                    self.helper(grid,i,j)
-                    c+=1
-
-        return c
+        n = len(grid)
+        m = len(grid[0])
+        cnt = 0
+        vis = [[0 for _ in range(m)] for _ in range(n)]
+        
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j] == '1' and vis[i][j] == 0:
+                    cnt += 1
+                    q = deque()
+                    q.append((i, j))
+                    vis[i][j] = 1
+                    
+                    while q:
+                        x, y = q.popleft()
+                        
+                        dx = [-1, 0, 1, 0]
+                        dy = [0, 1, 0, -1]
+                        
+                        for k in range(4):
+                            newx = x + dx[k]
+                            newy = y + dy[k]
+                            if 0 <= newx < n and 0 <= newy < m and \
+                               grid[newx][newy] == '1' and vis[newx][newy] == 0:
+                                q.append((newx, newy))
+                                vis[newx][newy] = 1
+        return cnt
