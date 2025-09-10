@@ -58,6 +58,7 @@
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
@@ -341,6 +342,7 @@
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -350,6 +352,7 @@
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -357,6 +360,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
@@ -368,6 +372,7 @@
 | [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/tago893/SDE_Prep/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
