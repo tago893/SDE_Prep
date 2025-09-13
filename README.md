@@ -81,6 +81,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
+| [1646-kth-missing-positive-number](https://github.com/tago893/SDE_Prep/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tago893/SDE_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -469,6 +470,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tago893/SDE_Prep/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/tago893/SDE_Prep/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
