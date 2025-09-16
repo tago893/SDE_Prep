@@ -69,6 +69,7 @@
 | [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
+| [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -181,6 +182,7 @@
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
@@ -242,6 +244,7 @@
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tago893/SDE_Prep/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -334,6 +337,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/tago893/SDE_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
