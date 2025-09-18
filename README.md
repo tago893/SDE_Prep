@@ -23,6 +23,7 @@
 | [0056-merge-intervals](https://github.com/tago893/SDE_Prep/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tago893/SDE_Prep/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tago893/SDE_Prep/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tago893/SDE_Prep/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
@@ -172,6 +173,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/tago893/SDE_Prep/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/tago893/SDE_Prep/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/tago893/SDE_Prep/tree/master/0139-word-break) |
@@ -387,6 +389,7 @@
 | [0048-rotate-image](https://github.com/tago893/SDE_Prep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tago893/SDE_Prep/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
