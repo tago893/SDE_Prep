@@ -1,20 +1,14 @@
 class Solution:
     def myPow(self, x: float, n: int) -> float:
-        
-        def solve(x,n):
-            if n==0:
-                return 1.0
-            result = solve(x,n//2)
-            if n%2 == 1:
-                return x*result*result
-            return result*result
-            
-        ans = 0
         if n<0:
-            return solve(1.0/x,-n)
-        elif n==0:
-            return 1.0
-        else:
-            return solve(x,n)
+            x = 1.0/x
+            n = abs(n)
         
-        
+        result = 1.0
+        doubling_val = x
+        while n!=0:
+            if n%2 == 1:
+                result *= doubling_val
+            doubling_val *= doubling_val
+            n//=2
+        return result 
