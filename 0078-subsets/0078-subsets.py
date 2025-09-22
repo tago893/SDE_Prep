@@ -1,17 +1,14 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        subset = []
-
-        def dfs(i):
-            if i>=len(nums):
-                res.append(subset.copy())
-                return
-            # DECISION TO TAKE
-            subset.append(nums[i])
-            dfs(i+1)
-            # DECISION TO NOT TAKE
-            subset.pop()
-            dfs(i+1)
-        dfs(0)
-        return res
+        result = []
+        n = len(nums)
+        def solve(i,curr_list):
+            if i >= n:
+                result.append(curr_list[:])
+                return 
+            curr_list.append(nums[i])
+            solve(i+1,curr_list)
+            curr_list.pop()
+            solve(i+1,curr_list)
+        solve(0,[])
+        return result
