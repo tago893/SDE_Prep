@@ -1,17 +1,17 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        result = []
-        combination = []
-        def backtrack(start,candidates,combination,target,total):
-            if total == target:
-                result.append(list(combination))
-            elif total>target:
+        res = []
+        n = len(candidates)
+        # recursive function
+        def solve(start,total,current_list):
+            if total>target or start == n:
                 return
-            for i in range(start,len(candidates)):
-                combination.append(candidates[i])
-                backtrack(i,candidates,combination,target,total+candidates[i])
-                combination.pop()
-        
-        
-        backtrack(0,candidates,combination,target,0)
-        return result
+            if total == target:
+                res.append(current_list[:])
+            for i in range(start,n):
+                current_list.append(candidates[i])
+                solve(i,total+candidates[i],current_list)
+                current_list.pop()
+                
+        solve(0,0,[])
+        return res
