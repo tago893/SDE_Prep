@@ -1,26 +1,25 @@
 from collections import Counter
-
 class Solution:
     def reorganizeString(self, s: str) -> str:
         count = Counter(s)
         max_count = max(count.values())
-        
-        # If the most frequent character is too frequent, it's impossible
-        if max_count > (len(s) + 1) // 2:
+        if max_count>(len(s)+1)//2:
             return ""
         
-        # Sort characters by frequency
-        sorted_chars = sorted(count.items(), key=lambda x: -x[1])
+        heap = []
+        heapq.heapify(heap)
+        for char,val in count.items():
+            heapq.heappush(heap,(-val,char))
+        result = ""
+        while len(heap)>=2:
+            freq1,char1 = heapq.heappop(heap)
+            freq2,char2 = heapq.heappop(heap)
+            result+=char1+char2
+            if freq1+1<0:
+                heapq.heappush(heap,(freq1+1,char1))
+            if freq2+1<0:
+                heapq.heappush(heap,(freq2+1,char2))
+        if heap:
+            result+=heap[-1][1]    
+        return result
         
-        res = [""] * len(s)
-        idx = 0
-        
-        # Place the most frequent characters first at even indices
-        for ch, freq in sorted_chars:
-            for _ in range(freq):
-                res[idx] = ch
-                idx += 2
-                if idx >= len(s):
-                    idx = 1  # switch to odd indices
-        
-        return "".join(res)
