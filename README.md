@@ -123,6 +123,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tago893/SDE_Prep/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/tago893/SDE_Prep/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tago893/SDE_Prep/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tago893/SDE_Prep/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
@@ -232,6 +233,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tago893/SDE_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/tago893/SDE_Prep/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/tago893/SDE_Prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/tago893/SDE_Prep/tree/master/0071-simplify-path) |
@@ -552,6 +554,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tago893/SDE_Prep/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tago893/SDE_Prep/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
