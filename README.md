@@ -385,6 +385,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
@@ -438,6 +439,7 @@
 | [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -447,6 +449,7 @@
 | [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
