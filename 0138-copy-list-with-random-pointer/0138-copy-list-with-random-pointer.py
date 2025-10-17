@@ -7,27 +7,41 @@ class Node:
         self.random = random
 """
 
+
+
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
         if not head:
             return None
 
-        old_to_new = {}
+        dummy = Node(0)
+        temp2 = dummy
         temp = head
 
-        # 1️⃣ Create all nodes (just values)
-        while temp:
-            old_to_new[temp] = Node(temp.val)
-            temp = temp.next
+        # Maps
+        old_to_index = {}
+        index_to_random = {}
+        index_to_newnode = {}
 
-        # 2️⃣ Link next and random
-        temp = head
+        i = 0
+        # \U0001f539 First pass: copy list & record mappings
         while temp:
-            if temp.next:
-                old_to_new[temp].next = old_to_new[temp.next]
-            if temp.random:
-                old_to_new[temp].random = old_to_new[temp.random]
-            temp = temp.next
+            new_node = Node(temp.val)
+            temp2.next = new_node
 
-        return old_to_new[head]
+            old_to_index[temp] = i
+            index_to_random[i] = temp.random
+            index_to_newnode[i] = new_node
+
+            temp2 = new_node
+            temp = temp.next
+            i += 1
+
+        # \U0001f539 Second pass: assign random pointers
+        for idx, old_random_node in index_to_random.items():
+            if old_random_node:
+                random_idx = old_to_index[old_random_node]
+                index_to_newnode[idx].random = index_to_newnode[random_idx]
+
+        return dummy.next
 
