@@ -190,6 +190,7 @@
 | [0073-set-matrix-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/tago893/SDE_Prep/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/tago893/SDE_Prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tago893/SDE_Prep/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/tago893/SDE_Prep/tree/master/0169-majority-element) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/tago893/SDE_Prep/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tago893/SDE_Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/tago893/SDE_Prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
