@@ -258,6 +258,7 @@
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tago893/SDE_Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -488,6 +489,7 @@
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1628-count-submatrices-with-all-ones) |
@@ -518,6 +520,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/tago893/SDE_Prep/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
