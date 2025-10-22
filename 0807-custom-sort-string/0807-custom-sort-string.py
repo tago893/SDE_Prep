@@ -10,7 +10,7 @@ class Solution:
             
         for ch in order:
 
-            if s_freq[ord(ch)-ord('a')]>0 and order_freq[ord(ch)-ord('a')]>0:
+            if s_freq[ord(ch)-ord('a')]>0:
                 res.append(s_freq[ord(ch)-ord('a')]*ch)
                 s_freq[ord(ch)-ord('a')]-= (1*s_freq[ord(ch)-ord('a')])
         for ch in s:
