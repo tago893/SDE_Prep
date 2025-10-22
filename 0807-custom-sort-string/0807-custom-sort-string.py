@@ -1,14 +1,21 @@
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
-        s_freq = Counter(s)
+        s_freq = [0]*26
         res = []
-        print(s_freq)
+        order_freq = [0]*26
+        for ch in s:
+            s_freq[ord(ch)-ord('a')]+=1
         for ch in order:
-            if ch in s_freq:
-                res.append(s_freq[ch]*ch)
-                del s_freq[ch]
-        print(s_freq)
-        for ch,count in s_freq.items():
-            res.append(count*ch)
+            order_freq[ord(ch)-ord('a')]+=1
+            
+        for ch in order:
+
+            if s_freq[ord(ch)-ord('a')]>0 and order_freq[ord(ch)-ord('a')]>0:
+                res.append(s_freq[ord(ch)-ord('a')]*ch)
+                s_freq[ord(ch)-ord('a')]-= (1*s_freq[ord(ch)-ord('a')])
+        for ch in s:
+            if s_freq[ord(ch)-ord('a')]>0:
+                res.append(s_freq[ord(ch)-ord('a')]*ch)
+                s_freq[ord(ch)-ord('a')]-=(1*s_freq[ord(ch)-ord('a')])
         return ''.join(res)
                 
