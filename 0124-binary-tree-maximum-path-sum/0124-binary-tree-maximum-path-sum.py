@@ -11,9 +11,9 @@ class Solution:
             nonlocal max_path_sum
             if root == None:
                 return 0
-            left = max(solve(root.left),0)
-            right = max(solve(root.right),0)
-            max_path_sum=max(max_path_sum,root.val + left + right)
-            return root.val + max(left,right)
+            left = solve(root.left)
+            right = solve(root.right)
+            max_path_sum=max(max_path_sum,root.val + left + right,root.val,root.val+max(left,right))
+            return root.val + max(left,right,0)
         solve(root)
         return max_path_sum
