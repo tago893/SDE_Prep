@@ -85,6 +85,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
+| [0990-verifying-an-alien-dictionary](https://github.com/tago893/SDE_Prep/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tago893/SDE_Prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -213,6 +214,7 @@
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
+| [0990-verifying-an-alien-dictionary](https://github.com/tago893/SDE_Prep/tree/master/0990-verifying-an-alien-dictionary) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/tago893/SDE_Prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -263,6 +265,7 @@
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0990-verifying-an-alien-dictionary](https://github.com/tago893/SDE_Prep/tree/master/0990-verifying-an-alien-dictionary) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tago893/SDE_Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
