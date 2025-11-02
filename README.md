@@ -60,6 +60,7 @@
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/tago893/SDE_Prep/tree/master/0485-max-consecutive-ones) |
@@ -260,6 +261,7 @@
 | [0179-largest-number](https://github.com/tago893/SDE_Prep/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
@@ -405,6 +407,7 @@
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
@@ -420,6 +423,7 @@
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
@@ -431,6 +435,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 ## Matrix
@@ -697,4 +702,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tago893/SDE_Prep/tree/master/0239-sliding-window-maximum) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
