@@ -195,6 +195,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/tago893/SDE_Prep/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/tago893/SDE_Prep/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/tago893/SDE_Prep/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tago893/SDE_Prep/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/tago893/SDE_Prep/tree/master/0138-copy-list-with-random-pointer) |
@@ -254,6 +255,7 @@
 | [0058-length-of-last-word](https://github.com/tago893/SDE_Prep/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/tago893/SDE_Prep/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/tago893/SDE_Prep/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/tago893/SDE_Prep/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tago893/SDE_Prep/tree/master/0131-palindrome-partitioning) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tago893/SDE_Prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tago893/SDE_Prep/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/tago893/SDE_Prep/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tago893/SDE_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/tago893/SDE_Prep/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/tago893/SDE_Prep/tree/master/0239-sliding-window-maximum) |
