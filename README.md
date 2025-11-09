@@ -74,6 +74,7 @@
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
@@ -210,6 +211,7 @@
 | [0496-next-greater-element-i](https://github.com/tago893/SDE_Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tago893/SDE_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
@@ -265,6 +267,7 @@
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
@@ -377,6 +380,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
@@ -414,6 +418,7 @@
 | [0572-subtree-of-another-tree](https://github.com/tago893/SDE_Prep/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/tago893/SDE_Prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -429,6 +434,7 @@
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
@@ -440,6 +446,7 @@
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 ## Matrix
 |  |
