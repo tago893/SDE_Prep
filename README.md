@@ -216,6 +216,7 @@
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
+| [0931-maximum-frequency-stack](https://github.com/tago893/SDE_Prep/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/tago893/SDE_Prep/tree/master/0990-verifying-an-alien-dictionary) |
@@ -519,6 +520,7 @@
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
+| [0931-maximum-frequency-stack](https://github.com/tago893/SDE_Prep/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -646,6 +648,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tago893/SDE_Prep/tree/master/0493-reverse-pairs) |
+| [0931-maximum-frequency-stack](https://github.com/tago893/SDE_Prep/tree/master/0931-maximum-frequency-stack) |
 | [3790-fruits-into-baskets-ii](https://github.com/tago893/SDE_Prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -667,6 +670,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tago893/SDE_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/tago893/SDE_Prep/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
