@@ -152,6 +152,7 @@
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
+| [1925-count-square-sum-triples](https://github.com/tago893/SDE_Prep/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/tago893/SDE_Prep/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Enumeration
@@ -159,6 +160,7 @@
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/tago893/SDE_Prep/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/tago893/SDE_Prep/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Backtracking
