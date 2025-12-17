@@ -23,6 +23,9 @@ class Solution:
                 if backtrack(j+1,current_sum+nums[j],groups_formed):
                     return True
                 used[j] = False
+
+                if current_sum == 0:
+                    return False
             return False
         
         return backtrack(0,0,0)
