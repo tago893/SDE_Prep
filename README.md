@@ -75,6 +75,7 @@
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
@@ -184,6 +185,7 @@
 | [0131-palindrome-partitioning](https://github.com/tago893/SDE_Prep/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -194,6 +196,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tago893/SDE_Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
@@ -375,6 +378,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [1162-as-far-from-land-as-possible](https://github.com/tago893/SDE_Prep/tree/master/1162-as-far-from-land-as-possible) |
@@ -626,6 +630,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/tago893/SDE_Prep/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/tago893/SDE_Prep/tree/master/0139-word-break) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/tago893/SDE_Prep/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 ## String Matching
 |  |
@@ -759,4 +764,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
