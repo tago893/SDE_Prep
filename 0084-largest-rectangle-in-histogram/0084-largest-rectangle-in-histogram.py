@@ -28,7 +28,7 @@ class Solution:
         for i in range(0,n):
             leftmost[i]+=1
             rightmost[i]-=1
-            maxArea = max(maxArea,heights[i],heights[i]*(rightmost[i]-leftmost[i]+1))
+            maxArea = max(maxArea,heights[i]*(rightmost[i]-leftmost[i]+1))
             print(maxArea)
         return maxArea
         
