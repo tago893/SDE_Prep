@@ -453,6 +453,7 @@
 | [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/tago893/SDE_Prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -525,6 +526,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/tago893/SDE_Prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -541,6 +543,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/tago893/SDE_Prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
