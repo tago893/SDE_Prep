@@ -78,6 +78,7 @@
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/tago893/SDE_Prep/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
@@ -430,6 +431,7 @@
 | [0303-range-sum-query-immutable](https://github.com/tago893/SDE_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tago893/SDE_Prep/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/tago893/SDE_Prep/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/tago893/SDE_Prep/tree/master/1004-max-consecutive-ones-iii) |
