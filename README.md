@@ -58,6 +58,7 @@
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tago893/SDE_Prep/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/tago893/SDE_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -426,6 +427,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/tago893/SDE_Prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/tago893/SDE_Prep/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/tago893/SDE_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/tago893/SDE_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0930-binary-subarrays-with-sum) |
@@ -717,6 +719,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/tago893/SDE_Prep/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/tago893/SDE_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/tago893/SDE_Prep/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/tago893/SDE_Prep/tree/master/0937-online-stock-span) |
