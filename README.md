@@ -84,6 +84,7 @@
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tago893/SDE_Prep/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
@@ -158,6 +159,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0670-maximum-swap](https://github.com/tago893/SDE_Prep/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
+| [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
@@ -231,6 +233,7 @@
 | [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
+| [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [0930-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0930-binary-subarrays-with-sum) |
@@ -507,6 +510,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/tago893/SDE_Prep/tree/master/1162-as-far-from-land-as-possible) |
