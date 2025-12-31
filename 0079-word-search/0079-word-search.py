@@ -21,7 +21,6 @@ class Solution:
         # explore all 4 directions
         for dx, dy in self.directions:
             if self.search_word(i + dx, j + dy, board, word, k + 1):
-                board[i][j] = temp
                 return True
 
         # backtrack
