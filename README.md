@@ -66,6 +66,7 @@
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/tago893/SDE_Prep/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/tago893/SDE_Prep/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/tago893/SDE_Prep/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/tago893/SDE_Prep/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
+| [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -201,6 +203,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tago893/SDE_Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/tago893/SDE_Prep/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -227,6 +230,7 @@
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/tago893/SDE_Prep/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tago893/SDE_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
