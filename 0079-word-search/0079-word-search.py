@@ -1,22 +1,36 @@
 class Solution:
-    def exist(self, board: List[List[str]], word: str) -> bool:
-        m = len(board)
-        n = len(board[0])
-        def dfs(i,j,k):
-            if k == len(word):
-                return True
-            if i<0 or j<0 or k>len(word) or i>=m or j>=n or board[i][j] != word[k]:
-                return False
-            
-            temp = board[i][j]
-            board[i][j] = "#"
-            res = dfs(i,j-1,k+1) or dfs(i,j+1,k+1) or dfs(i+1,j,k+1) or dfs(i-1,j,k+1)  
-            board[i][j] = temp
-            return res
-        for i in range(m):
-            for j in range(n):
-                if dfs(i,j,0):
-                    return True
-            
+    directions = [(-1,0), (1,0), (0,1), (0,-1)]
 
+    def search_word(self, i, j, board, word, k):
+        # base case: matched entire word
+        if k == len(word):
+            return True
+
+        # boundary + mismatch check
+        if (
+            i < 0 or j < 0 or
+            i >= len(board) or j >= len(board[0]) or
+            board[i][j] != word[k]
+        ):
+            return False
+
+        # mark visited
+        temp = board[i][j]
+        board[i][j] = "#"
+
+        # explore all 4 directions
+        for dx, dy in self.directions:
+            if self.search_word(i + dx, j + dy, board, word, k + 1):
+                board[i][j] = temp
+                return True
+
+        # backtrack
+        board[i][j] = temp
+        return False
+
+    def exist(self, board: List[List[str]], word: str) -> bool:
+        for i in range(len(board)):
+            for j in range(len(board[0])):
+                if self.search_word(i, j, board, word, 0):
+                    return True
         return False
