@@ -310,6 +310,7 @@
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1666-make-the-string-great](https://github.com/tago893/SDE_Prep/tree/master/1666-make-the-string-great) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/tago893/SDE_Prep/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/tago893/SDE_Prep/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tago893/SDE_Prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -333,6 +334,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tago893/SDE_Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tago893/SDE_Prep/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2211-k-radius-subarray-averages](https://github.com/tago893/SDE_Prep/tree/master/2211-k-radius-subarray-averages) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -449,6 +451,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
 ## Depth-First Search
 |  |
@@ -647,6 +650,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3790-fruits-into-baskets-ii](https://github.com/tago893/SDE_Prep/tree/master/3790-fruits-into-baskets-ii) |
 ## Memoization
 |  |
