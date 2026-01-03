@@ -99,6 +99,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/tago893/SDE_Prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/tago893/SDE_Prep/tree/master/1095-find-in-mountain-array) |
 | [1127-last-stone-weight](https://github.com/tago893/SDE_Prep/tree/master/1127-last-stone-weight) |
 | [1162-as-far-from-land-as-possible](https://github.com/tago893/SDE_Prep/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/tago893/SDE_Prep/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -646,6 +647,7 @@
 | [0792-binary-search](https://github.com/tago893/SDE_Prep/tree/master/0792-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/tago893/SDE_Prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/tago893/SDE_Prep/tree/master/1095-find-in-mountain-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tago893/SDE_Prep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/tago893/SDE_Prep/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -774,6 +776,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tago893/SDE_Prep/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/tago893/SDE_Prep/tree/master/1095-find-in-mountain-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
