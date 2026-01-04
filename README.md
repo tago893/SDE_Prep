@@ -108,6 +108,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1390-four-divisors](https://github.com/tago893/SDE_Prep/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/tago893/SDE_Prep/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -166,6 +167,7 @@
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/tago893/SDE_Prep/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
 | [1925-count-square-sum-triples](https://github.com/tago893/SDE_Prep/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
