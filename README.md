@@ -117,6 +117,7 @@
 | [1646-kth-missing-positive-number](https://github.com/tago893/SDE_Prep/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/tago893/SDE_Prep/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tago893/SDE_Prep/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/tago893/SDE_Prep/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
@@ -337,6 +338,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tago893/SDE_Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tago893/SDE_Prep/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tago893/SDE_Prep/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -435,6 +437,7 @@
 | [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tago893/SDE_Prep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tago893/SDE_Prep/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
@@ -454,6 +457,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/tago893/SDE_Prep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -623,6 +627,7 @@
 | [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
@@ -654,6 +659,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tago893/SDE_Prep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/tago893/SDE_Prep/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/tago893/SDE_Prep/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/tago893/SDE_Prep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
