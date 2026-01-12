@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/tago893/SDE_Prep/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/tago893/SDE_Prep/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/tago893/SDE_Prep/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/tago893/SDE_Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tago893/SDE_Prep/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tago893/SDE_Prep/tree/master/0031-next-permutation) |
@@ -347,6 +348,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tago893/SDE_Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tago893/SDE_Prep/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tago893/SDE_Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -413,6 +415,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tago893/SDE_Prep/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tago893/SDE_Prep/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/tago893/SDE_Prep/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/tago893/SDE_Prep/tree/master/0056-merge-intervals) |
