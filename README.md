@@ -20,6 +20,7 @@
 | [0039-combination-sum](https://github.com/tago893/SDE_Prep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tago893/SDE_Prep/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/tago893/SDE_Prep/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/tago893/SDE_Prep/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tago893/SDE_Prep/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tago893/SDE_Prep/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/tago893/SDE_Prep/tree/master/0048-rotate-image) |
@@ -363,6 +364,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tago893/SDE_Prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tago893/SDE_Prep/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/tago893/SDE_Prep/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tago893/SDE_Prep/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tago893/SDE_Prep/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0088-merge-sorted-array) |
@@ -391,6 +393,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tago893/SDE_Prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tago893/SDE_Prep/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/tago893/SDE_Prep/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0064-minimum-path-sum) |
@@ -596,6 +599,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/tago893/SDE_Prep/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tago893/SDE_Prep/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/tago893/SDE_Prep/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tago893/SDE_Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
@@ -619,6 +623,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tago893/SDE_Prep/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tago893/SDE_Prep/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tago893/SDE_Prep/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/tago893/SDE_Prep/tree/master/0496-next-greater-element-i) |
