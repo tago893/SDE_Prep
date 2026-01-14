@@ -7,7 +7,6 @@ class Solution:
                     d[i+j] = [mat[i][j]]
                 else:
                     d[i+j].append(mat[i][j])
-        print(d)
         ans= []
         for entry in d.items():
             if entry[0] % 2 == 0:
