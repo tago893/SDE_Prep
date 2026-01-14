@@ -72,6 +72,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/tago893/SDE_Prep/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/tago893/SDE_Prep/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/tago893/SDE_Prep/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tago893/SDE_Prep/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tago893/SDE_Prep/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
@@ -534,6 +535,7 @@
 | [0200-number-of-islands](https://github.com/tago893/SDE_Prep/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/tago893/SDE_Prep/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/tago893/SDE_Prep/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
@@ -720,6 +722,7 @@
 | [0043-multiply-strings](https://github.com/tago893/SDE_Prep/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tago893/SDE_Prep/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tago893/SDE_Prep/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/tago893/SDE_Prep/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/tago893/SDE_Prep/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tago893/SDE_Prep/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
