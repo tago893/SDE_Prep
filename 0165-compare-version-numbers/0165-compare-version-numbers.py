@@ -1,16 +1,21 @@
 class Solution:
     def compareVersion(self, version1: str, version2: str) -> int:
         
-        version1 = version1.split(".")
-        version2 = version2.split(".")
-        if len(version1)>len(version2):
-            version2.extend(['0']*(len(version1)-len(version2)))
-        elif len(version1)<len(version2):
-            version1.extend(['0']*(len(version2)-len(version1)))
-        
-        for i in range(0,len(version1)):
-            if int(version1[i]) > int(version2[i]):
+        i,j = 0,0
+        while i<len(version1) or j<len(version2):
+            v1=v2=0
+            while i<len(version1) and version1[i]!=".":
+                v1 = 10*v1 + int(version1[i])
+                i+=1
+            while j<len(version2) and version2[j]!=".":
+                v2 = 10*v2 + int(version2[j])
+                j+=1
+            if v1>v2:
                 return 1
-            elif int(version2[i])>int(version1[i]):
+            elif v1<v2:
                 return -1
+            i+=1
+            j+=1
         return 0
+            
+            
