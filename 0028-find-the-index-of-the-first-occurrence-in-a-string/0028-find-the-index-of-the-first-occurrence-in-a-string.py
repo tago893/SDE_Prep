@@ -4,7 +4,6 @@ class Solution:
         if len(haystack)<len(needle):
             return -1
         def compare(str1,str2):
-            print([str1,str2])
             if len(str1) < len(str2):
                 return False
             for i in range(len(str1)):
