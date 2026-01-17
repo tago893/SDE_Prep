@@ -90,6 +90,7 @@
 | [0739-daily-temperatures](https://github.com/tago893/SDE_Prep/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tago893/SDE_Prep/tree/master/0792-binary-search) |
+| [0827-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/tago893/SDE_Prep/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
@@ -507,6 +508,7 @@
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/tago893/SDE_Prep/tree/master/0979-distribute-coins-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/tago893/SDE_Prep/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -524,6 +526,7 @@
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/tago893/SDE_Prep/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0827-making-a-large-island) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/tago893/SDE_Prep/tree/master/1162-as-far-from-land-as-possible) |
@@ -554,6 +557,7 @@
 | [0498-diagonal-traverse](https://github.com/tago893/SDE_Prep/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/tago893/SDE_Prep/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tago893/SDE_Prep/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/tago893/SDE_Prep/tree/master/1036-rotting-oranges) |
@@ -842,4 +846,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [0827-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0827-making-a-large-island) |
 <!---LeetCode Topics End-->
