@@ -111,6 +111,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/tago893/SDE_Prep/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/tago893/SDE_Prep/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -206,6 +207,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0679-24-game](https://github.com/tago893/SDE_Prep/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -219,6 +221,7 @@
 | [0342-power-of-four](https://github.com/tago893/SDE_Prep/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tago893/SDE_Prep/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2529-range-product-queries-of-powers](https://github.com/tago893/SDE_Prep/tree/master/2529-range-product-queries-of-powers) |
@@ -324,6 +327,7 @@
 | [0889-buddy-strings](https://github.com/tago893/SDE_Prep/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tago893/SDE_Prep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/tago893/SDE_Prep/tree/master/0990-verifying-an-alien-dictionary) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/tago893/SDE_Prep/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tago893/SDE_Prep/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/tago893/SDE_Prep/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
