@@ -100,6 +100,7 @@
 | [0940-fruit-into-baskets](https://github.com/tago893/SDE_Prep/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/tago893/SDE_Prep/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 | [0983-validate-stack-sequences](https://github.com/tago893/SDE_Prep/tree/master/0983-validate-stack-sequences) |
 | [0990-verifying-an-alien-dictionary](https://github.com/tago893/SDE_Prep/tree/master/0990-verifying-an-alien-dictionary) |
 | [1004-max-consecutive-ones-iii](https://github.com/tago893/SDE_Prep/tree/master/1004-max-consecutive-ones-iii) |
@@ -176,6 +177,7 @@
 | [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/tago893/SDE_Prep/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/tago893/SDE_Prep/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/tago893/SDE_Prep/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/tago893/SDE_Prep/tree/master/1448-maximum-69-number) |
@@ -398,6 +400,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/tago893/SDE_Prep/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -462,6 +465,7 @@
 | [0807-custom-sort-string](https://github.com/tago893/SDE_Prep/tree/master/0807-custom-sort-string) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/tago893/SDE_Prep/tree/master/0900-reordered-power-of-2) |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/tago893/SDE_Prep/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/tago893/SDE_Prep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -777,6 +781,7 @@
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/tago893/SDE_Prep/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/tago893/SDE_Prep/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/tago893/SDE_Prep/tree/master/1184-car-pooling) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
@@ -809,6 +814,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tago893/SDE_Prep/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -850,4 +856,8 @@
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0827-making-a-large-island) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
