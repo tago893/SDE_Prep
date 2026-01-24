@@ -65,6 +65,7 @@
 | [0303-range-sum-query-immutable](https://github.com/tago893/SDE_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
@@ -252,6 +253,7 @@
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tago893/SDE_Prep/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/tago893/SDE_Prep/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/tago893/SDE_Prep/tree/master/0496-next-greater-element-i) |
@@ -384,6 +386,7 @@
 | [0165-compare-version-numbers](https://github.com/tago893/SDE_Prep/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/tago893/SDE_Prep/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/tago893/SDE_Prep/tree/master/0845-longest-mountain-in-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -457,6 +460,7 @@
 | [0268-missing-number](https://github.com/tago893/SDE_Prep/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/tago893/SDE_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/tago893/SDE_Prep/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
@@ -685,6 +689,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/tago893/SDE_Prep/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tago893/SDE_Prep/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tago893/SDE_Prep/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tago893/SDE_Prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/tago893/SDE_Prep/tree/master/0493-reverse-pairs) |
