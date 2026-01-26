@@ -1,6 +1,6 @@
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
-        from collections import deque
+        
         q = deque() # stores *indices*
         res = []
         for i, cur in enumerate(nums):
