@@ -246,6 +246,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/tago893/SDE_Prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/tago893/SDE_Prep/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/tago893/SDE_Prep/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tago893/SDE_Prep/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tago893/SDE_Prep/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/tago893/SDE_Prep/tree/master/0219-contains-duplicate-ii) |
@@ -285,6 +286,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tago893/SDE_Prep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/tago893/SDE_Prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/tago893/SDE_Prep/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/tago893/SDE_Prep/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/tago893/SDE_Prep/tree/master/0148-sort-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -796,6 +798,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/tago893/SDE_Prep/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/tago893/SDE_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/tago893/SDE_Prep/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -868,4 +871,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tago893/SDE_Prep/tree/master/0973-k-closest-points-to-origin) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tago893/SDE_Prep/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
