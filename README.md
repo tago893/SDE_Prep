@@ -345,6 +345,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tago893/SDE_Prep/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/tago893/SDE_Prep/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/tago893/SDE_Prep/tree/master/2470-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/tago893/SDE_Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/tago893/SDE_Prep/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
@@ -397,6 +398,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/tago893/SDE_Prep/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/tago893/SDE_Prep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tago893/SDE_Prep/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/tago893/SDE_Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -681,6 +683,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/tago893/SDE_Prep/tree/master/1917-maximum-average-pass-ratio) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tago893/SDE_Prep/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/tago893/SDE_Prep/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2689-rearranging-fruits](https://github.com/tago893/SDE_Prep/tree/master/2689-rearranging-fruits) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/tago893/SDE_Prep/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tago893/SDE_Prep/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
