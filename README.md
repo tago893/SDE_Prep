@@ -326,6 +326,7 @@
 | [0205-isomorphic-strings](https://github.com/tago893/SDE_Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/tago893/SDE_Prep/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/tago893/SDE_Prep/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
@@ -392,6 +393,7 @@
 | [0283-move-zeroes](https://github.com/tago893/SDE_Prep/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/tago893/SDE_Prep/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/tago893/SDE_Prep/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
 | [0845-longest-mountain-in-array](https://github.com/tago893/SDE_Prep/tree/master/0845-longest-mountain-in-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tago893/SDE_Prep/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -434,6 +436,7 @@
 | [0221-maximal-square](https://github.com/tago893/SDE_Prep/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/tago893/SDE_Prep/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/tago893/SDE_Prep/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/tago893/SDE_Prep/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/tago893/SDE_Prep/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/tago893/SDE_Prep/tree/master/0410-split-array-largest-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/tago893/SDE_Prep/tree/master/0698-partition-to-k-equal-sum-subsets) |
