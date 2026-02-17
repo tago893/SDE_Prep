@@ -5,4 +5,5 @@ class Solution:
             if s[i] == t[j]:
                 j+=1
             i+=1
-        return len(t) - j
+        print(j)
+        return len(t[j:])
