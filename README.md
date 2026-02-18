@@ -95,6 +95,7 @@
 | [0840-magic-squares-in-grid](https://github.com/tago893/SDE_Prep/tree/master/0840-magic-squares-in-grid) |
 | [0845-longest-mountain-in-array](https://github.com/tago893/SDE_Prep/tree/master/0845-longest-mountain-in-array) |
 | [0854-making-a-large-island](https://github.com/tago893/SDE_Prep/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/tago893/SDE_Prep/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/tago893/SDE_Prep/tree/master/0883-car-fleet) |
 | [0890-lemonade-change](https://github.com/tago893/SDE_Prep/tree/master/0890-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/tago893/SDE_Prep/tree/master/0930-binary-subarrays-with-sum) |
@@ -712,6 +713,7 @@
 | [0658-find-k-closest-elements](https://github.com/tago893/SDE_Prep/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/tago893/SDE_Prep/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tago893/SDE_Prep/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tago893/SDE_Prep/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tago893/SDE_Prep/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/tago893/SDE_Prep/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/tago893/SDE_Prep/tree/master/1095-find-in-mountain-array) |
