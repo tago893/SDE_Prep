@@ -514,6 +514,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tago893/SDE_Prep/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/tago893/SDE_Prep/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -599,6 +600,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tago893/SDE_Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -617,6 +619,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tago893/SDE_Prep/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tago893/SDE_Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tago893/SDE_Prep/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -831,6 +834,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/tago893/SDE_Prep/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/tago893/SDE_Prep/tree/master/0789-kth-largest-element-in-a-stream) |
