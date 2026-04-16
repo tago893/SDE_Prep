@@ -255,6 +255,7 @@
 | [0229-majority-element-ii](https://github.com/tago893/SDE_Prep/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tago893/SDE_Prep/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/tago893/SDE_Prep/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/tago893/SDE_Prep/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tago893/SDE_Prep/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/tago893/SDE_Prep/tree/master/0424-longest-repeating-character-replacement) |
@@ -328,6 +329,7 @@
 | [0205-isomorphic-strings](https://github.com/tago893/SDE_Prep/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tago893/SDE_Prep/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/tago893/SDE_Prep/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/tago893/SDE_Prep/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/tago893/SDE_Prep/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/tago893/SDE_Prep/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/tago893/SDE_Prep/tree/master/0399-evaluate-division) |
