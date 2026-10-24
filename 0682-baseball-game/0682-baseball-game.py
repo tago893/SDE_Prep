@@ -1,26 +1,16 @@
 class Solution:
-    def calPoints(self, operations: List[str]) -> int:
-        result = 0
+    def calPoints(self, operations: list[str]) -> int:
         stack = []
-        top = -1
-        for c in operations:
-            if c == "D":
-                value = stack[top]
-                stack.append(value*2)
-                result+=(value*2)
-                top+=1
-            elif c == "C":
-                result -= stack[top]
+        for ch in operations:
+            if ch == "D":
+                double_score = stack[-1]*2
+                stack.append(double_score)
+            elif ch == "C":
                 stack.pop()
-                top-=1
-
-            elif c == "+":
-                value = stack[top] + stack[top-1]
-                stack.append(value)
-                result+=value
-                top+=1
+            elif ch == "+":
+                sum_of_two_scores = stack[-1] + stack[-2]
+                stack.append(sum_of_two_scores)
             else:
-                stack.append(int(c))
-                result += int(c) 
-                top+=1
-        return result
+                stack.append(int(ch))
+        return sum(stack)
+              
